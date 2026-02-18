@@ -1,2 +1,3 @@
 # python-practice
-code-programs
+Basic Python programs for practice  
+Input output and simple calculations
